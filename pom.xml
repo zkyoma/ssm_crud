@@ -20,7 +20,7 @@
     <jstl.version>1.2</jstl.version>
     <servlet.version>4.0.1</servlet.version>
     <jsp.version>2.3.3</jsp.version>
-    <junit.version>4.12</junit.version>
+    <junit.version>4.13.1</junit.version>
   </properties>
 
   <dependencies>
